@@ -100,7 +100,9 @@ export const mappings = {
   springboot:"springboot",
   unity: "unity",
   blender: "blender",
-
+  blockchain: "blockchain",
+  php: "php",
+  laravel: "laravel",
 
 };
 
